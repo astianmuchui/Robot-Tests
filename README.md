@@ -1,2 +1,2 @@
 # Robot Tests
-Test codes for robotics and IoT modules
+This repository includes Test codes for robotics and IoT modules
