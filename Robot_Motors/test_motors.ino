@@ -1,3 +1,4 @@
+// Declare pins
 #define ENA 6
 #define in1 7
 #define in2 8
