@@ -1,12 +1,12 @@
 // Declare pins
-#define ENA 6
-#define in1 7
-#define in2 8
-#define in3 9
-#define in4 10
-#define ENB 11
+#define ENA 7
+#define in1 8
+#define in2 9
+#define in3 10
+#define in4 11
+#define ENB 12
 
-int pins[] = {6,7,8,9,10,11};
+int pins[] = {7,8,9,10,11,12};
 
 void setup() {
  for (int i = 0; i <5; i++) 
